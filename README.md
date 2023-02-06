@@ -13,7 +13,7 @@ Dec 2016 | New York, NY, USA • GPA: 3.88/4.0
 Algorithms | Cloud and Big Data | Micro Services | OS | Database Systems Implementation | Computer Vision | PLT <br>
 Graduate Course Assistant for Software Engineering, Introduction to Databases and Programming for Entrepreneurs
 
-**PUNE INSTITUTE OF COMPUTER TECHNOLOGY(PICT)**| BE in Computer Science <br>
+**PUNE INSTITUTE OF COMPUTER TECHNOLOGY(PICT)** | BE in Computer Science <br>
 
 May 2015 | Pune, India • GPA: 3.6/4.0
 
@@ -44,11 +44,11 @@ June 2016 – August 2016 | New York, NY
 
 Worked on the Onecart team using a combination of PHP and Go to build backend APIsand service points for the Onecart experience serving as the central point of search and payment for Next Jump’s millionsof users on the Perks at Work website.
 
-TECHNICALSKILLS
+<h2>TECHNICAL SKILLS</h2>
 
 C#, .NET, Cosmos BigData, Data Engineering, Distributed Systems, ETL, XML, JSON, Java, Azure PowerBi, Kusto, Apache Spark, Hadoop, C, C++, Microsoft SQLServer, JSP, Razor, Node.js, JavaScript, Git, Typescript, Python, PHP, Linux, Go, XAMP, HTML, AngularJS, AWSElastic Beanstalk, MongoDB, NoSQL, Tableau, Azure KeyVault, RESTfulServices, JIRA, Google Workspace API.
 
-PROJECTS
+<h2>PROJECTS</h2>
 
 **STATBALL**| Sport stats scraping and analysis on .NET Core
 
@@ -84,7 +84,7 @@ Sept 2015 | Columbia University, New York, NY
 
 Twitter Live API data streamed to map using WebSockets, depicting trend heatmap geographically. Sentiment analysis of tweets using multi-threaded worker pool, highlighting public opinion of events.
 
-**LINUXKERNELCONTRIBUTION**| XFS file system defragmenter utilities implemented using C
+**LINUX KERNEL CONTRIBUTION**| XFS file system defragmenter utilities implemented using C
 
 Sep 2014 – May 2015 | Pune, India
 
