@@ -1,6 +1,6 @@
 <h1> Somdeep Dey</h1>
 
-[https://github.com/somdeep](https://github.com/somdeep)| sd2988@columbia.edu (mailto:sd2988@columbia.edu) | 9792878549 | [https://www.linkedin.com/in/somdeepdey/](https://www.linkedin.com/in/somdeepdey/)
+[https://github.com/somdeep](https://github.com/somdeep)| sd2988@columbia.edu (mailto:sd2988@columbia.edu) | 9292878549 | [https://www.linkedin.com/in/somdeepdey/](https://www.linkedin.com/in/somdeepdey/)
 
 10351 NE 10th St, Apt 2003 | Bellevue, WA, 98004![](Aspose.Words.cfa7e0d4-3808-4251-86aa-87030496fbb0.001.png)
 
